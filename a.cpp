@@ -22,3 +22,9 @@ int main(){
     cin.tie(0);
 
 }
+
+/*
+ *  1. check value overflows (long long)
+ *  2. see the effect of having multiples test cases 
+ *  3. O(1) -> O(log n) -> O(n) -> ...
+**/
