@@ -14,7 +14,7 @@
 using namespace std;
 
 
-const int N = 1e5;
+const int N = 1e5;ll int t,n;
 
 
 int main(){
@@ -27,4 +27,5 @@ int main(){
  *  1. check value overflows (long long)
  *  2. see the effect of having multiples test cases 
  *  3. O(1) -> O(log n) -> O(n) -> ...
+ *  4. check x->n, y->m
 **/
