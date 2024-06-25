@@ -8,7 +8,7 @@
 
 
 #define ll long long
-#define f(i,n) for(int i = 1;i <= n;i++)
+#define f(i,n) for(ll int i = 1;i <= n;i++)
 
 
 using namespace std;
