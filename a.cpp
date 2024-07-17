@@ -39,7 +39,7 @@ int main(){
 		auto begin = high_resolution_clock::now();
 	#endif
 
-    
+    solve();
 
     #ifdef LOCAL
 		auto end = high_resolution_clock::now();
