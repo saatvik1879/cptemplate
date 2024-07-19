@@ -5,6 +5,7 @@
 #include<string>
 #include<queue>
 #include<vector>
+#include<algorithm>
 
 /*****MACROS*****/
 #define ll long long
