@@ -9,7 +9,7 @@
 
 /*****MACROS*****/
 #define ll long long
-#define f(i,n) for(ll int i = 1;i <= n;i++)
+#define f(i,n) for(ll i = 1;i <= n;i++)
 
 
 /*****NAMESPACES*****/
@@ -22,7 +22,7 @@ using namespace std;
 
 
 /*****GLOBAL VARIABLES*****/
-const int N = 1e5;ll int t,n;
+const int N = 1e5;ll t,n;
 
 
 /*****SOLVE*****/
@@ -54,4 +54,5 @@ int main(){
  *  2. see the effect of having multiples test cases 
  *  3. O(1) -> O(log n) -> O(n) -> ...
  *  4. check x->n, y->m
+ *  5. check const N !!!
 **/
