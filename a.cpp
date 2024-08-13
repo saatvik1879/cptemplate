@@ -10,7 +10,8 @@
 /*****MACROS*****/
 #define ll long long
 #define f(i,n) for(ll i = 1;i <= n;i++)
-
+#define yes cout<<"YES"<<endl;
+#define no cout<<"NO"<<endl;
 
 /*****NAMESPACES*****/
 using namespace std;
