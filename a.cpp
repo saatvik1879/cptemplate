@@ -12,6 +12,7 @@
 #define f(i,n) for(ll i = 1;i <= n;i++)
 #define yes cout<<"YES"<<endl;
 #define no cout<<"NO"<<endl;
+#define vi vector<ll>
 
 /*****NAMESPACES*****/
 using namespace std;
