@@ -53,8 +53,9 @@ int main(){
 
 /*
  *  1. check value overflows (long long)
- *  2. see the effect of having multiples test cases 
+ *  2. see the effect of having multiples test cases (especially using stl in global scope) 
  *  3. O(1) -> O(log n) -> O(n) -> ...
  *  4. check x->n, y->m
  *  5. check const N !!!
+ *  6. check if the func always returns
 **/
