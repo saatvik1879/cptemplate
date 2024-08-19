@@ -6,6 +6,7 @@
 #include<queue>
 #include<vector>
 #include<algorithm>
+#include<map>
 
 /*****MACROS*****/
 #define ll long long
@@ -24,7 +25,7 @@ using namespace std;
 
 
 /*****GLOBAL VARIABLES*****/
-const int N = 1e5;ll t,n;
+const int N = 1e5;ll mod = 1e9+7,t,n;
 
 
 /*****SOLVE*****/
