@@ -2,16 +2,9 @@
  *    author:  BerSerKeR07
 **/
 #include<iostream>
-#include<string>
-#include<queue>
-#include<vector>
-#include<algorithm>
-#include<map>
-#include<set>
 
 /*****MACROS*****/
 #define ll long long
-#define f(i,n) for(ll i = 1;i <= n;i++)
 #define yes cout<<"YES"<<endl;
 #define no cout<<"NO"<<endl;
 #define vi vector<ll>
@@ -26,7 +19,7 @@ using namespace std;
 
 
 /*****GLOBAL VARIABLES*****/
-const int N = 1e5;ll mod = 1e9+7,t,n;
+
 
 
 /*****SOLVE*****/
@@ -40,16 +33,8 @@ int main(){
     ios_base::sync_with_stdio(false);
     cin.tie(0);
 
-    #ifdef LOCAL
-		auto begin = high_resolution_clock::now();
-	#endif
-
     solve();
 
-    #ifdef LOCAL
-		auto end = high_resolution_clock::now();
-		cout << "Execution Time: " << (duration_cast<duration<double> >(end - begin).count())*1000 << "milliseconds" << endl;
-	#endif
     return 0;
 }
 
