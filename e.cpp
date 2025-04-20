@@ -19,7 +19,7 @@ using namespace std;
 
 
 /*****GLOBAL VARIABLES*****/
-
+ll n,t;
 
 
 /*****SOLVE*****/
